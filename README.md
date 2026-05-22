@@ -1,4 +1,4 @@
-# <极致创意>ComfyUI 图片生成集群管理服务
+# 极致创意 | ComfyUI 图片生成集群管理服务
 基于 Flask 开发的 ComfyUI 分布式集群管理服务，支持文生图（Text-to-Image）、图生图（Image-to-Image）任务调度，多 ComfyUI 节点负载均衡，任务状态实时推送（SSE），以及生成图片的管理功能。
 
 ## 项目介绍
