@@ -54,6 +54,7 @@ FLASK_DEBUG=1 python jzcy/app.py
 
 ### 访问服务
 - 主页：http://localhost:5050
+- ![1779443606788](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1779443606788.png)
 
 ## 核心功能
 ### 1. 服务器集群管理
