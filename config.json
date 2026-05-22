@@ -1,0 +1,21 @@
+{
+  "servers": [
+    {
+      "id": "server_1",
+      "name": "192",
+      "host": "192.168.1.192",
+      "port": 8188,
+      "enabled": true
+    },
+    {
+      "id": "server_bc4cb64d",
+      "name": "33",
+      "host": "192.168.1.33",
+      "port": 8188,
+      "enabled": true
+    }
+  ],
+  "generated_images_dir": "generated_images",
+  "max_queue_size": 100,
+  "server_check_interval": 5
+}
