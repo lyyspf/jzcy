@@ -1,4 +1,4 @@
-# ComfyUI 图片生成集群管理服务
+# <极致创意>ComfyUI 图片生成集群管理服务
 基于 Flask 开发的 ComfyUI 分布式集群管理服务，支持文生图（Text-to-Image）、图生图（Image-to-Image）任务调度，多 ComfyUI 节点负载均衡，任务状态实时推送（SSE），以及生成图片的管理功能。
 
 ## 项目介绍
@@ -54,7 +54,7 @@ FLASK_DEBUG=1 python jzcy/app.py
 
 ### 访问服务
 - 主页：http://localhost:5050
-- ![1779443606788](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1779443606788.png)
+- <img width="1434" height="655" alt="image" src="https://github.com/user-attachments/assets/df6d2b2c-97a6-4d1e-8e33-b6d929d51e2b" />
 
 ## 核心功能
 ### 1. 服务器集群管理
